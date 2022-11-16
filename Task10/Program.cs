@@ -6,5 +6,5 @@
 Console.Write("Enter three-digit number: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Third digit is: ");
+Console.Write("Second digit is: ");
 Console.WriteLine(SecondDigit(num));
